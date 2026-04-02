@@ -24,6 +24,6 @@ We focus on the intersection of LLM capabilities and hardened systems engineerin
 Security is a team sport, and the ocean is too big to explore alone. Here is how you can get involved:
 
 * **Experiments:** Check out our repositories to see our latest (and sometimes weirdest) security prototypes.
-* **Discussions:** Have a wild idea for an AI-native firewall? Start a thread in our [Discussions](https://github.com/LobsterTrap/community/discussions) tab.
+* **Discussions:** Have a wild idea for an AI-native firewall? Start a thread in our [Discussions](https://github.com/orgs/LobsterTrap/discussions) tab.
 * **OpenClaw:** Help us harden the core framework that powers secure agentic workflows.
 
